@@ -1,6 +1,6 @@
 // Heapify helps in building a max or min heap
 // Max Heap means a complete binary tree which has its parent node always greater than its child
-// Time complexity is O(n)
+// Time complexity is O(log n)
 class heapify {
         static int [] input = {10,20,3,60,80,90};
 
